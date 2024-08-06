@@ -1323,7 +1323,7 @@ const STAMP_LIST = {
         "album": "Faerieland II",
         "list": [
             { position: 1, name: "No Stamp", img: "", rarity: "" },
-            { position: 2, name: "No Stamp", img: "", rarity: "" },
+            { position: 2, name: "Luxinia Stamp", img: "d3cf0h2ki5.gif", rarity: "r101" },
             { position: 3, name: "No Stamp", img: "", rarity: "" },
             { position: 4, name: "No Stamp", img: "", rarity: "" },
             { position: 5, name: "No Stamp", img: "", rarity: "" },
