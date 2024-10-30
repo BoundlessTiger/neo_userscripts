@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stamp album helper - Stamp searcher
 // @namespace    neopets
-// @version      2024.09.28
+// @version      2024.10.30
 // @description  Adds an info menu about your missing stamps
 // @author       Original: EatWooloos / Updated by Hert123
 // @match        *://www.neopets.com/stamps.phtml?type=album&page_id=*
@@ -1060,7 +1060,7 @@ const STAMP_LIST = {
             { position: 5, name: "25th Anniversary Aisha Stamp", img: "stamp_25thanni_aisha.gif", rarity: "r101" },
             { position: 6, name: "No Stamp", img: "", rarity: "" },
             { position: 7, name: "No Stamp", img: "", rarity: "" },
-            { position: 8, name: "No Stamp", img: "", rarity: "" },
+            { position: 8, name: "25th Anniversary Faellie Stamp", img: "9i6j5bal2h.gif", rarity: "r101" },
             { position: 9, name: "No Stamp", img: "", rarity: "" },
             { position: 10, name: "No Stamp", img: "", rarity: "" },
             { position: 11, name: "No Stamp", img: "", rarity: "" },
@@ -1415,7 +1415,7 @@ const STAMP_LIST = {
         "list": [
             { position: 1, name: "No Stamp", img: "", rarity: "" },
             { position: 2, name: "No Stamp", img: "", rarity: "" },
-            { position: 3, name: "No Stamp", img: "", rarity: "" },
+            { position: 3, name: "Tea Time Stamp", img: "ch61kbg6ih.gif", rarity: "r101" },
             { position: 4, name: "No Stamp", img: "", rarity: "" },
             { position: 5, name: "No Stamp", img: "", rarity: "" },
             { position: 6, name: "No Stamp", img: "", rarity: "" },
