@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stamp album helper - Stamp searcher
 // @namespace    neopets
-// @version      2024.10.30
+// @version      2024.11.12
 // @description  Adds an info menu about your missing stamps
 // @author       Original: EatWooloos / Updated by Hert123
 // @match        *://www.neopets.com/stamps.phtml?type=album&page_id=*
