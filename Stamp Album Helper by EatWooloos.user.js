@@ -910,7 +910,7 @@ const STAMP_LIST = {
             { position: 5, name: "Neovia Stamp", img: "sta_land_neovia.gif", rarity: "r78" },
             { position: 6, name: "Guard Zomutt Stamp", img: "sta_guardzomutt.gif", rarity: "r80" },
             { position: 7, name: "Bruno Stamp", img: "sta_bruno_stamp.gif", rarity: "r82" },
-            { position: 8, name: "No Stamp", img: "", rarity: "" },
+            { position: 8, name: "Neovian Printing Press Shopkeeper Stamp", img: "sta_printing_press.gif", rarity: "r86" },
             { position: 9, name: "Family Portrait Stamp", img: "sta_family_portrait.gif", rarity: "r83" },
             { position: 10, name: "No Stamp", img: "", rarity: "" },
             { position: 11, name: "No Stamp", img: "", rarity: "" },
