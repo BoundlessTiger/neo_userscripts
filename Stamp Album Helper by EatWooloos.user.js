@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stamp album helper - Stamp searcher
 // @namespace    neopets
-// @version      2024.11.12
+// @version      2024.11.15
 // @description  Adds an info menu about your missing stamps
 // @author       Original: EatWooloos / Updated by Hert123
 // @match        *://www.neopets.com/stamps.phtml?type=album&page_id=*
@@ -1253,7 +1253,7 @@ const STAMP_LIST = {
             { position: 18, name: "Baelia Stamp", img: "sta_baelia.gif", rarity: "r101" },
             { position: 19, name: "Neopets 22nd Birthday Stamp", img: "sta_22_bday.gif", rarity: "r101" },
             { position: 20, name: "Christmas Fir Stamp", img: "stamp_christmas_fir.gif", rarity: "r84" },
-            { position: 21, name: "No Stamp", img: "", rarity: "" },
+            { position: 21, name: "25th Anniversary Celebration Stamp", img: "44f4ea2977.gif", rarity: "r101" },
             { position: 22, name: "Valentine Stamp", img: "stamp_valentine.gif", rarity: "r101" },
             { position: 23, name: "No Stamp", img: "", rarity: "" },
             { position: 24, name: "No Stamp", img: "", rarity: "" },
