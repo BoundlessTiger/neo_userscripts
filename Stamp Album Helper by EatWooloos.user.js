@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stamp album helper - Stamp searcher
 // @namespace    neopets
-// @version      2024.12.05
+// @version      2024.12.16
 // @description  Adds an info menu about your missing stamps
 // @author       Original: EatWooloos / Updated by Hert123
 // @match        *://www.neopets.com/stamps.phtml?type=album&page_id=*
@@ -1135,7 +1135,7 @@ const STAMP_LIST = {
             { position: 20, name: "No Stamp", img: "", rarity: "" },
             { position: 21, name: "Kari and Topsi Stamp", img: "sta_kari_topsi.gif", rarity: "r101" },
             { position: 22, name: "Christmas Bruce Stamp", img: "sta_christmas_bruce.gif", rarity: "r101" },
-            { position: 23, name: "No Stamp", img: "", rarity: "" },
+            { position: 23, name: "Holiday King Altador Stamp", img: "sta_holiday_altador.gif", rarity: "r101" },
             { position: 24, name: "No Stamp", img: "", rarity: "" },
             { position: 25, name: "No Stamp", img: "", rarity: "" }
         ]
