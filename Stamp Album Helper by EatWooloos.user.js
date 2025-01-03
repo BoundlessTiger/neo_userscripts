@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stamp album helper - Stamp searcher
 // @namespace    neopets
-// @version      2024.12.16
+// @version      2025.01.03
 // @description  Adds an info menu about your missing stamps
 // @author       Original: EatWooloos / Updated by Hert123
 // @match        *://www.neopets.com/stamps.phtml?type=album&page_id=*
@@ -913,7 +913,7 @@ const STAMP_LIST = {
             { position: 8, name: "Neovian Printing Press Shopkeeper Stamp", img: "sta_printing_press.gif", rarity: "r86" },
             { position: 9, name: "Family Portrait Stamp", img: "sta_family_portrait.gif", rarity: "r83" },
             { position: 10, name: "No Stamp", img: "", rarity: "" },
-            { position: 11, name: "No Stamp", img: "", rarity: "" },
+            { position: 11, name: "Orion Stamp", img: "sta_orion.gif", rarity: "r87" },
             { position: 12, name: "The Crumpetmonger Shop Stamp", img: "sta_y20haltot_neovianshop.gif", rarity: "r101" },
             { position: 13, name: "Spirit of Slumber Stamp", img: "sta_spirit_slumber.gif", rarity: "r87" },
             { position: 14, name: "Teatime in Neovia Stamp", img: "fon_sta_teatime_in_neovia.gif", rarity: "r101" },
