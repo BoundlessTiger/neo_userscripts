@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stamp album helper - Stamp searcher
 // @namespace    neopets
-// @version      2025.01.03
+// @version      2025.03.03
 // @description  Adds an info menu about your missing stamps
 // @author       Original: EatWooloos / Updated by Hert123
 // @match        *://www.neopets.com/stamps.phtml?type=album&page_id=*
@@ -1323,7 +1323,7 @@ const STAMP_LIST = {
     "44": {
         "album": "Faerieland II",
         "list": [
-            { position: 1, name: "No Stamp", img: "", rarity: "" },
+            { position: 1, name: "Faerie Fragments Baby Tiles Stamp", img: "g6l13af5dc.gif", rarity: "r101" },
             { position: 2, name: "Luxinia Stamp", img: "d3cf0h2ki5.gif", rarity: "r101" },
             { position: 3, name: "No Stamp", img: "", rarity: "" },
             { position: 4, name: "No Stamp", img: "", rarity: "" },
