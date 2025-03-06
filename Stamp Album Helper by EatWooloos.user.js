@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stamp album helper - Stamp searcher
 // @namespace    neopets
-// @version      2025.03.03
+// @version      2025.03.05
 // @description  Adds an info menu about your missing stamps
 // @author       Original: EatWooloos / Updated by Hert123
 // @match        *://www.neopets.com/stamps.phtml?type=album&page_id=*
@@ -1417,7 +1417,7 @@ const STAMP_LIST = {
             { position: 2, name: "No Stamp", img: "", rarity: "" },
             { position: 3, name: "Tea Time Stamp", img: "ch61kbg6ih.gif", rarity: "r101" },
             { position: 4, name: "No Stamp", img: "", rarity: "" },
-            { position: 5, name: "No Stamp", img: "", rarity: "" },
+            { position: 5, name: "Colouring Book Stamp", img: "08f9a4nmk3.gif", rarity: "r101" },
             { position: 6, name: "No Stamp", img: "", rarity: "" },
             { position: 7, name: "Cheerleader Usuki Stamp", img: "stamp_neopia_usukicheer.gif", rarity: "r101" },
             { position: 8, name: "No Stamp", img: "", rarity: "" },
