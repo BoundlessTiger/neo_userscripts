@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stamp album helper - Stamp searcher
 // @namespace    neopets
-// @version      2025.03.28
+// @version      2025.04.10
 // @description  Adds an info menu about your missing stamps
 // @author       Original: EatWooloos / Updated by Hert123
 // @match        *://www.neopets.com/stamps.phtml?type=album&page_id=*
@@ -1056,7 +1056,7 @@ const STAMP_LIST = {
             { position: 1, name: "Soup Faerie Stamp", img: "sta_advc2019_soupfaerie.gif", rarity: "r101" },
             { position: 2, name: "No Stamp", img: "", rarity: "" },
             { position: 3, name: "No Stamp", img: "", rarity: "" },
-            { position: 4, name: "No Stamp", img: "", rarity: "" },
+            { position: 4, name: "Overstamped Stamp", img: "a7774ccde3.gif", rarity: "r101" },
             { position: 5, name: "25th Anniversary Aisha Stamp", img: "stamp_25thanni_aisha.gif", rarity: "r101" },
             { position: 6, name: "No Stamp", img: "", rarity: "" },
             { position: 7, name: "No Stamp", img: "", rarity: "" },
